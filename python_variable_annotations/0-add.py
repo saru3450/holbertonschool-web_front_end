@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """
- function add that takes a float a and a 
- float b as arguments and returns their sum as a float
+the function add a and float b
 """
 
 
